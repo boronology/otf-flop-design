@@ -1,10 +1,10 @@
-# Maintainer : boronology
+# Maintainer : boronology <boronology at gmail dot com>
 pkgname=otf-flop-design
 pkgver=20130715
 pkgrel=1
 depends=('fontconfig' 'xorg-font-utils')
 makedepends=('convmv')
-pkgdesc="Simple japanese gothic fonts"
+pkgdesc="Simple OpenType japanese gothic fonts"
 arch=('any')
 license=('custom')
 url="http://www.flopdesign.com/freefont/flopdesignfont.html"
