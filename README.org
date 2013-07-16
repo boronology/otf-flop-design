@@ -1,4 +1,4 @@
-* PKGBUILD FOR ROUNDED M+ FONTS
+* PKGBUILD FOR FLOP DESIGN FONTS
 
 ** これはなんですか
    [[http://www.flopdesign.com/freefont/flopdesignfont.html][フロップデザインフォント]] をArch Linuxおよびその派生ディストリビューションにインストールするためのPKGBUILDです。
