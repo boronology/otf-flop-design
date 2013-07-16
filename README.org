@@ -1,0 +1,30 @@
+* PKGBUILD FOR ROUNDED M+ FONTS
+
+** これはなんですか
+   [[http://www.flopdesign.com/freefont/flopdesignfont.html][フロップデザインフォント]] をArch Linuxおよびその派生ディストリビューションにインストールするためのPKGBUILDです。
+
+   Arch Linuxにおいてはフォントのインストールにパッケージ化が推奨されています。
+
+** つかいかた
+   : git clone git@github.com:boronology/otf-flop-design.git
+   : cd otf-flop-design
+   : makepkg
+   : sudo pacman -U *.pkg.tar.xz
+
+   でインストールできます
+
+** フォントの詳細
+   [[http://www.flopdesign.com/index.html][FLOP DESIGN]]様の開発した第二水準漢字までを含むオープンタイプフォントです。
+   
+   サンプルは [[http://www.flopdesign.com/freefont/flopdesignfont.html][公式サイト]] をご覧ください
+
+** フォントのライセンス
+   IPAフォントライセンスが関わるため多少複雑になっています。
+
+   詳しくは [[http://www.flopdesign.com/freefont/flopdesignfont.html][公式サイト]] をご覧ください。
+   
+** バージョン
+   20130715 Ver1.0に対応しています。
+
+   覚えていれば更新に対応していく所存です。
+
