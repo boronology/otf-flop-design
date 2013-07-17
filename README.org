@@ -35,6 +35,8 @@
    詳しくは [[http://www.flopdesign.com/freefont/flopdesignfont.html][公式サイト]] をご覧ください。
    
 ** バージョン
-   20130715 Ver1.0に対応しています。
+   2013/07/17 TrueType Fontが追加されたのに対応しました。
 
    AURに投稿したのでちゃんとメンテしていきます。
+
+   
