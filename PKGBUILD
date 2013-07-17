@@ -4,7 +4,7 @@ pkgver=20130717
 pkgrel=1
 depends=('fontconfig' 'xorg-font-utils')
 makedepends=('convmv')
-pkgdesc="Simple OpenType japanese gothic fonts"
+pkgdesc="Simple japanese gothic fonts(includes both OpenType and TrueType)"
 arch=('any')
 license=('custom')
 url="http://www.flopdesign.com/freefont/flopdesignfont.html"
@@ -16,7 +16,7 @@ package() {
 	  cd $srcdir/FLOPDESIGN_FONT
 	  convmv -f cp-932 -t utf-8 --notest M*
 
-	  # install fonts
+	  # install OpenType fonts
 	  install -Dm644 01FLOPDESIGN.otf "$pkgdir/usr/share/fonts/OTF/01flopdesign.otf"
 
 	  # install TrueType fonts
