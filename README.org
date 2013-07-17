@@ -22,10 +22,12 @@
    : makepkg
    : sudo pacman -U *.pkg.tar.xz
 
-   でインストールできます
+   でインストールできます。
 
 ** フォントの詳細
-   [[http://www.flopdesign.com/index.html][FLOP DESIGN]]様の開発した第二水準漢字までを含むオープンタイプフォントです。
+   [[http://www.flopdesign.com/index.html][FLOP DESIGN]]様の開発した第二水準漢字までを含むフォントです。
+
+   このパッケージではOpenType FontとTrueType Fontの両方がインストールされます。
    
    サンプルは [[http://www.flopdesign.com/freefont/flopdesignfont.html][公式サイト]] をご覧ください
 
