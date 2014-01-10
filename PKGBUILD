@@ -8,8 +8,7 @@ pkgdesc="Simple japanese gothic fonts(includes both OpenType and TrueType)"
 arch=('any')
 license=('custom')
 url="http://www.flopdesign.com/freefont/flopdesignfont.html"
-source=(http://www.flopdesign.com/images/datafont/FLOPDESIGN_FONT.zip)
-
+source=(http://www.flopdesign.com/images/datafont/FLOPDESIGN-FONT.zip)
 install=$pkgname.install
 
 package() {
@@ -37,4 +36,4 @@ package() {
 	  install -Dm644 ReadMe.txt "$pkgdir/usr/share/licenses/$pkgname/ReadMe.txt"
 }
 
-md5sums=('6671079d56ccf02acae09c7c07c94527')
+md5sums=('eaf01200ad6c34bfd5815be9655e38c7')
