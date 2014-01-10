@@ -1,6 +1,6 @@
 # Maintainer : boronology <boronology at gmail dot com>
 pkgname=otf-flop-design
-pkgver=20131015
+pkgver=20140110
 pkgrel=1
 depends=('fontconfig' 'xorg-font-utils')
 makedepends=('convmv')
