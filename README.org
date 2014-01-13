@@ -68,3 +68,7 @@
 *** 2014/1/10
     本家が更新されていたので修正。
     FLOPDESIGN_FONTからFLOPDESIGN-FONTに変わったのはぱっと見わからなかった。
+
+*** 2014/1/13
+    ファイル名も変更されてたので修正。
+    OpenTypeがFlopDesignFontでTrueTypeがFLOPDesignFontなのは一体。
