@@ -72,3 +72,6 @@
 *** 2014/1/13
     ファイル名も変更されてたので修正。
     OpenTypeがFlopDesignFontでTrueTypeがFLOPDesignFontなのは一体。
+
+*** 2014/5/1
+    気づいたら本家が更新されてたので追従。
